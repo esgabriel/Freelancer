@@ -19,7 +19,22 @@ body {
     font-size: 3.8rem;
     font-family: "Open Sans", sans-serif;
 }
-
 .titulo span{
     font-size: 2rem;
+}
+
+.contenedor {
+    width: 120rem;
+    margin: 0 auto;
+}
+.nav-bg {
+    background-color: var(--secundario);
+}
+
+.navegacion-principal {
+
+}
+
+.navegacion-principal a{
+    background-color: var(--primario);
 }
